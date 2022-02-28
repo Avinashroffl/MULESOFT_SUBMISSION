@@ -38,7 +38,7 @@ public class connecttodb {
 2.  Creating a new table (Movies) using JDBC / Other Languages – before working with data, you need to create a table called Movies. Learn how to create a new table in an SQLite database from a Java (any language) program.
 
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://github.com/Avinashroffl/MULESOFT_SUBMISSION/blob/main/MOVIETABLE.png" />
 </p>
 
 
