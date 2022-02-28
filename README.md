@@ -253,5 +253,10 @@ public class selectall {
 QUERY USED:
 ```SQL
 SELECT * FROM MOVIES WHERE ACTORNAME='Rajinikanth'
-``` 
+```
 
+<hr />
+<p align="center">
+<a href="https://github.com/Avinashroffl/MULESOFT_SUBMISSION/blob/main/SCREENSHOTS.pdf" target="_blank" >FINAL OUTPUT SCREENSHOTS</a>
+</p>
+<hr />
